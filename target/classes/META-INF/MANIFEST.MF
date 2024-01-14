@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: NtsakoM
+Build-Jdk: 17.0.9
+Implementation-Title: spring-boot-shiro
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.lenicliu
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/eg-spring-boot/spring-boot-shiro
+Created-By: Maven Integration for Eclipse
+
